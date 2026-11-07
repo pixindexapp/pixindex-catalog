@@ -1,7 +1,7 @@
 {
- "version": 6,
- "publishedAt": "2026-10-30T20:03:06Z",
- "entryCount": 387,
+ "version": 7,
+ "publishedAt": "2026-11-07T10:38:03Z",
+ "entryCount": 388,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13141,6 +13141,39 @@
     }
    ],
    "blurb": "These characters may be tiny, but they\u2019re just as festive! In this mystery box, you\u2019ll have the chance to pull one of 10 iconic characters: Bumble, Hermey, Rudolph, Santa, Yukon Cornelius chase, Misfit Elephant chase, Rudolph chase, Hermey super chase, Bumble ultra chase, and Santa hyper chase! Tear into the thrill to find out which character will be added to your collection! When purchasing the 12 Pc Mystery Pack, you\u2019ll receive 12 mystery figures. Rarity Scale: \u2022 Hero 1/6 \u2022 Chase 1/12 \u2022 Super Rare 1/24 \u2022 Hyper Rare 1/36 \u2022 Ultra rare 1/72",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-post-malone",
+   "name": "PIX! Post Malone",
+   "handle": "pix-post-malone",
+   "url": "https://thrilljoy.com/products/pix-post-malone",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone-O-Card.png?v=1793128805&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone-O-Card.png?v=1793128805&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_Hero_-1.png?v=1793128805&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_Hero.png?v=1793128805&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_Chase_-1.png?v=1793128805&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_Chase.png?v=1793128804&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_1of1_-1.png?v=1793128805&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6628-ThrilljoyPIX_-PostMalone-PostMalone_1of1.png?v=1793128806&width=800"
+   ],
+   "run": 9999,
+   "release": "2026-11-20",
+   "cats": [],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Post Malone",
+   "super": null,
+   "ultra": null,
+   "hyper": {
+    "name": "Chrome Post Malone",
+    "pieces": 1
+   },
+   "roster": null,
+   "blurb": "Pull that bottle off the shelf to make room for your new favorite toy! Featuring Post Malone in his iconic Dallas hat, a brown jacket layered over a white button-up, denim jeans, and a brown belt with matching shoes, holding a microphone in hand! So, grab a microphone of your own and get up on that bar\u2014your new PIX! karaoke partner is here! This PIX! is perfect for all fans of #1 hit I Had Some Help or any of Posty's karaoke classics! This PIX! is a limited-edition collectible with a run of 9,999 pieces! This limited-edition PIX! comes with a chance of a hyper-rare 1-of-1 chase featuring an all-chrome Post Malone that will have you seeing fireworks! All Post Malone PIX! comes with a Certificate of Authenticity in the form of a laser printed, spot varnished collector's card, and are ready to stack with the rest of your collection. You'll be wishing you lived in a big glass house to show it off! Each collectible has a 1-in-6 odds of a chase! You'll love your little Posty so much you'll tell all your friends that THEY'RE crazy for not having their own!",
    "event": null,
    "retailer": null
   }
