@@ -1,7 +1,7 @@
 {
- "version": 8,
- "publishedAt": "2026-11-07T10:38:03Z",
- "entryCount": 388,
+ "version": 9,
+ "publishedAt": "2026-11-21T19:35:16Z",
+ "entryCount": 389,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13176,6 +13176,33 @@
    "blurb": "Pull that bottle off the shelf to make room for your new favorite toy! Featuring Post Malone in his iconic Dallas hat, a brown jacket layered over a white button-up, denim jeans, and a brown belt with matching shoes, holding a microphone in hand! So, grab a microphone of your own and get up on that bar\u2014your new PIX! karaoke partner is here! This PIX! is perfect for all fans of #1 hit I Had Some Help or any of Posty's karaoke classics! This PIX! is a limited-edition collectible with a run of 9,999 pieces! This limited-edition PIX! comes with a chance of a hyper-rare 1-of-1 chase featuring an all-chrome Post Malone that will have you seeing fireworks! All Post Malone PIX! comes with a Certificate of Authenticity in the form of a laser printed, spot varnished collector's card, and are ready to stack with the rest of your collection. You'll be wishing you lived in a big glass house to show it off! Each collectible has a 1-in-6 odds of a chase! You'll love your little Posty so much you'll tell all your friends that THEY'RE crazy for not having their own!",
    "event": null,
    "retailer": null
+  },
+  {
+   "id": "pix-kuchisake",
+   "name": "PIX! Kuchisake",
+   "handle": "pix-kuchisake",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": 3000,
+   "release": null,
+   "cats": [
+    "exclusive"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Kuchisake",
+   "super": null,
+   "ultra": null,
+   "hyper": {
+    "name": "Kuchisake",
+    "pieces": 1
+   },
+   "roster": null,
+   "blurb": "Thrilljoy Asia x Pop Life exclusive from the Legendary Creatures & Myths series, released in the Philippines. Kuchisake wears a pink floral kimono and a face mask and carries her scissors. The 1-in-6 chase is a blood-splattered Kuchisake, and the hyper chase is a 1-of-1 gold Kuchisake.",
+   "event": null,
+   "retailer": "PopLife"
   }
  ]
 }
