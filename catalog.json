@@ -1,7 +1,7 @@
 {
- "version": 10,
- "publishedAt": "2026-11-23T14:15:53Z",
- "entryCount": 390,
+ "version": 11,
+ "publishedAt": "2026-11-23T21:18:42Z",
+ "entryCount": 391,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13227,6 +13227,30 @@
    "blurb": "Thrilljoy Asia x Pop Life exclusive from the Legendary Creatures & Myths series, released in the Philippines. The White Lady is a ghost in a white dress with long white hair and fangs. The 1-in-6 chase is a translucent, blood-splattered White Lady.",
    "event": null,
    "retailer": "PopLife"
+  },
+  {
+   "id": "pix-skeleton-ghost",
+   "name": "PIX! Skeleton Ghost",
+   "handle": "pix-skeleton-ghost",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": 7500,
+   "release": "2026-12-09",
+   "cats": [
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Clown Doll",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Poltergeist joins the PIX! line. Skeleton Ghost is the skeletal apparition from the 1982 film, all hollow black eyes and razor-sharp teeth. The 1-in-6 chase is the Clown Doll.",
+   "event": null,
+   "retailer": null
   }
  ]
 }
