@@ -1,7 +1,7 @@
 {
- "version": 9,
- "publishedAt": "2026-11-21T19:35:16Z",
- "entryCount": 389,
+ "version": 10,
+ "publishedAt": "2026-11-23T14:15:53Z",
+ "entryCount": 390,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13201,6 +13201,30 @@
    },
    "roster": null,
    "blurb": "Thrilljoy Asia x Pop Life exclusive from the Legendary Creatures & Myths series, released in the Philippines. Kuchisake wears a pink floral kimono and a face mask and carries her scissors. The 1-in-6 chase is a blood-splattered Kuchisake, and the hyper chase is a 1-of-1 gold Kuchisake.",
+   "event": null,
+   "retailer": "PopLife"
+  },
+  {
+   "id": "pix-white-lady",
+   "name": "PIX! White Lady",
+   "handle": "pix-white-lady",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": null,
+   "release": null,
+   "cats": [
+    "exclusive"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "White Lady",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Thrilljoy Asia x Pop Life exclusive from the Legendary Creatures & Myths series, released in the Philippines. The White Lady is a ghost in a white dress with long white hair and fangs. The 1-in-6 chase is a translucent, blood-splattered White Lady.",
    "event": null,
    "retailer": "PopLife"
   }
