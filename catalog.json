@@ -1,7 +1,7 @@
 {
- "version": 11,
- "publishedAt": "2026-11-23T21:18:42Z",
- "entryCount": 391,
+ "version": 12,
+ "publishedAt": "2026-11-24T16:42:36Z",
+ "entryCount": 400,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13232,10 +13232,16 @@
    "id": "pix-skeleton-ghost",
    "name": "PIX! Skeleton Ghost",
    "handle": "pix-skeleton-ghost",
-   "url": null,
-   "type": "PIX!",
-   "img": null,
-   "imgs": [],
+   "url": "https://thrilljoy.com/products/pix-skeleton-ghost",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-SkeletonGhost-O-Card.png?v=1795120723&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-SkeletonGhost-O-Card.png?v=1795120723&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-SkeletonGhost_Hero_-1.png?v=1795120723&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-SkeletonGhost_Hero.png?v=1795120723&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-ClownDoll_Chase_-1.png?v=1795120723&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6843-ThrilljoyPIX_-Poltergeist-ClownDoll_Chase.png?v=1795120723&width=800"
+   ],
    "run": 7500,
    "release": "2026-12-09",
    "cats": [
@@ -13249,6 +13255,298 @@
    "hyper": null,
    "roster": null,
    "blurb": "Poltergeist joins the PIX! line. Skeleton Ghost is the skeletal apparition from the 1982 film, all hollow black eyes and razor-sharp teeth. The 1-in-6 chase is the Clown Doll.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-beetle",
+   "name": "PIX! Beetle",
+   "handle": "pix-beetle",
+   "url": "https://thrilljoy.com/products/pix-beetle",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Beetle-O-Card.png?v=1795120980&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Beetle-O-Card.png?v=1795120980&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Beetle_Hero_-1.png?v=1795120980&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Beetle_Hero.png?v=1795120980&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Kubo_Chase_-1.png?v=1795120980&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6884-ThrilljoyPIX_-KuboandtheTwoStrings-Kubo_Chase.png?v=1795120980&width=800"
+   ],
+   "run": 5000,
+   "release": "2026-12-09",
+   "cats": [
+    "animation",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Kubo",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Kubo's beetle-armored warrior joins PIX! \u2014 teal exoskeleton, horned head, and a weapon in each of his four arms.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-elphaba-thropp-the-wicked-witch-of-the-west",
+   "name": "PIX! Elphaba Thropp: The Wicked Witch of the West",
+   "handle": "pix-elphaba-thropp-the-wicked-witch-of-the-west",
+   "url": "https://thrilljoy.com/products/pix-elphaba-thropp-the-wicked-witch-of-the-west",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp-O-Card.png?v=1795117453&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp-O-Card.png?v=1795117453&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp_Hero_-1.png?v=1795117453&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp_Hero.png?v=1795117453&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp_Chase_-1.png?v=1795117453&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6635-ThrilljoyPIX_-Wicked-ElphabaThropp_Chase.png?v=1795117453&width=800"
+   ],
+   "run": 8000,
+   "release": "2026-12-09",
+   "cats": [
+    "fantasy",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Elphaba Thropp",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "The Wicked Witch of the West joins PIX! \u2014 green skin, pointed hat, and broomstick in hand.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-glinda-upland-glinda-the-good",
+   "name": "PIX! Glinda Upland: Glinda the Good",
+   "handle": "pix-glinda-upland-glinda-the-good",
+   "url": "https://thrilljoy.com/products/pix-glinda-upland-glinda-the-good",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland-O-Card.png?v=1795117639&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland-O-Card.png?v=1795117639&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland_Hero_-1.png?v=1795117639&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland_Hero.png?v=1795117639&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland_Chase_-1.png?v=1795117639&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6636-ThrilljoyPIX_-Wicked-GlindaUpland_Chase.png?v=1795117639&width=800"
+   ],
+   "run": 8000,
+   "release": "2026-12-09",
+   "cats": [
+    "fantasy",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Glinda Upland",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Glinda the Good joins PIX! in her lavender gown, book in hand.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-jet-the-black-dog",
+   "name": "PIX! Jet: The Black Dog",
+   "handle": "pix-jet-the-black-dog",
+   "url": "https://thrilljoy.com/products/pix-jet-the-black-dog",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Jet-O-Card.png?v=1795117853&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Jet-O-Card.png?v=1795117853&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Jet_Hero_-1.png?v=1795117853&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Jet_Hero.png?v=1795117853&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Ed_Chase_-1.png?v=1795117853&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6723-ThrilljoyPIX_-CowboyBebop-Ed_Chase.png?v=1795117853&width=800"
+   ],
+   "run": 7000,
+   "release": "2026-12-09",
+   "cats": [
+    "animation"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Ed",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Cowboy Bebop's Jet Black joins PIX! \u2014 the Bebop's bounty hunter, arms crossed and ready for the next mission.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-stolas-prince-of-hell",
+   "name": "PIX! Stolas: Prince of Hell",
+   "handle": "pix-stolas-prince-of-hell",
+   "url": "https://thrilljoy.com/products/pix-stolas-prince-of-hell",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Stolas-O-Card.png?v=1795117280&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Stolas-O-Card.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Stolas_Hero_-1_5ec1944f-9793-4b4c-a2f7-edbf2dea1008.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Stolas_Hero_c608563c-660f-45d3-906f-f21543894262.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Verosika_Chase_-1_43bc007a-9a7b-4694-b3ec-9249f49dcc8d.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Verosika_Chase_19d5d9f7-596a-463c-b038-2fb99c5622de.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Verosika_UltraChase_-1_8fbda7ed-1da7-496a-bd89-213371c889c3.png?v=1795117280&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6403-ThrilljoyPIX_-HelluvaBoss-Verosika_UltraChase_89569ca4-118f-4f08-8e7f-7f367ec28ae0.png?v=1795117280&width=800"
+   ],
+   "run": 7500,
+   "release": "2026-12-09",
+   "cats": [
+    "animation"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Verosika",
+   "super": null,
+   "ultra": {
+    "name": "Verosika",
+    "pieces": 24
+   },
+   "hyper": null,
+   "roster": null,
+   "blurb": "Helluva Boss's Stolas joins PIX! \u2014 the owl prince of Hell in his red suit, cape, and crowned top hat.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-the-joker-bozo",
+   "name": "PIX! The Joker: Bozo",
+   "handle": "pix-the-joker-bozo",
+   "url": "https://thrilljoy.com/products/pix-the-joker-bozo",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_-O-Card.png?v=1795120384&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_-O-Card.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_Hero_-1.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_Hero.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-Two-Face_Chase_-1.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-Two-Face_Chase.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_SuperChase_-1.png?v=1795120384&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6794-ThrilljoyPIX_-DarkKnightRises-TheJoker_SuperChase.png?v=1795120384&width=800"
+   ],
+   "run": 9999,
+   "release": "2026-12-09",
+   "cats": [
+    "exclusive",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Two-Face",
+   "super": {
+    "name": "The Joker",
+    "pieces": 96
+   },
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "The Dark Knight's Joker joins PIX! in his bank-heist look \u2014 robber mask, dark suit, and a duffel full of money.",
+   "event": null,
+   "retailer": "Toy Temple"
+  },
+  {
+   "id": "pix-the-joker-the-ace-of-knaves",
+   "name": "PIX! The Joker: The Ace of Knaves",
+   "handle": "pix-the-joker-the-ace-of-knaves",
+   "url": "https://thrilljoy.com/products/pix-the-joker-the-ace-of-knaves",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_-O-Card.png?v=1795121222&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_-O-Card.png?v=1795121222&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_Hero_-1.png?v=1795121221&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_Hero.png?v=1795121221&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-Clayface_Chase_-1.png?v=1795121222&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-Clayface_Chase.png?v=1795121221&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_SuperChase_-1.png?v=1795121221&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6913-ThrilljoyPIX_-BatmanTheAnimatedSeries-TheJoker_SuperChase.png?v=1795121222&width=800"
+   ],
+   "run": 7500,
+   "release": "2026-12-09",
+   "cats": [
+    "exclusive",
+    "classics",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Clayface",
+   "super": {
+    "name": "The Joker",
+    "pieces": 96
+   },
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Batman: The Animated Series' Joker joins PIX! \u2014 purple suit, throwing cards, and that big yellow grin.",
+   "event": null,
+   "retailer": "Hot Topic"
+  },
+  {
+   "id": "pix-toothless-the-night-fury",
+   "name": "PIX! Toothless: The Night Fury",
+   "handle": "pix-toothless-the-night-fury",
+   "url": "https://thrilljoy.com/products/pix-toothless-the-night-fury",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-Toothless-O-Card_19104523-0bdb-4ab2-b83e-260f95f9e107.png?v=1795032889&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-Toothless-O-Card_19104523-0bdb-4ab2-b83e-260f95f9e107.png?v=1795032889&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-Toothless_Hero_-1_bd694c5d-7921-46ec-bccb-442a1e00b343.png?v=1795032889&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-Toothless_Hero_f6a5406f-347a-4d1f-9cea-b887b9545e34.png?v=1795032889&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-StormFly_Chase_-1_fa29b2d5-04e0-4219-a3a9-0c4095907c4e.png?v=1795032889&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6388-ThrilljoyPIX_-HTTYD-StormFly_Chase_65e3a22a-14c6-48b1-8875-e2916b2c742b.png?v=1795032890&width=800"
+   ],
+   "run": 7500,
+   "release": "2026-12-09",
+   "cats": [
+    "animation",
+    "movies"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "StormFly",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "The Night Fury joins PIX! \u2014 black scales, bright green eyes, and wings spread.",
+   "event": null,
+   "retailer": null
+  },
+  {
+   "id": "pix-zach-morris",
+   "name": "PIX! Zach Morris",
+   "handle": "pix-zach-morris",
+   "url": "https://thrilljoy.com/products/pix-zach-morris",
+   "type": "PIX2.0",
+   "img": "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-ZackMorris-O-Card.png?v=1795120137&width=800",
+   "imgs": [
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-ZackMorris-O-Card.png?v=1795120137&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-ZackMorris_Hero_-1.png?v=1795120137&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-ZackMorris_Hero.png?v=1795120137&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-KellyKapowski_Chase_-1.png?v=1795120137&width=800",
+    "https://cdn.shopify.com/s/files/1/0672/1096/9252/files/6790-ThrilljoyPIX_-SavedbytheBell-KellyKapowski_Chase.png?v=1795120137&width=800"
+   ],
+   "run": 6000,
+   "release": "2026-12-09",
+   "cats": [
+    "classics"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Kelly Kapowski",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Saved by the Bell's Zack Morris joins PIX! \u2014 straight from Bayside High, brick cell phone in hand.",
    "event": null,
    "retailer": null
   }
