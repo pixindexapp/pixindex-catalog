@@ -1,7 +1,7 @@
 {
- "version": 12,
- "publishedAt": "2026-11-24T16:42:36Z",
- "entryCount": 400,
+ "version": 13,
+ "publishedAt": "2026-11-26T01:04:10Z",
+ "entryCount": 401,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13549,6 +13549,33 @@
    "blurb": "Saved by the Bell's Zack Morris joins PIX! \u2014 straight from Bayside High, brick cell phone in hand.",
    "event": null,
    "retailer": null
+  },
+  {
+   "id": "pix-tala",
+   "name": "PIX! Tala",
+   "handle": "pix-tala",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": 5000,
+   "release": null,
+   "cats": [
+    "exclusive"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Jingles the Elf",
+   "super": null,
+   "ultra": null,
+   "hyper": {
+    "name": "Tala",
+    "pieces": 1
+   },
+   "roster": null,
+   "blurb": "Thrilljoy Asia x Pop Life exclusive from the Heartlings line, released in the Philippines. Tala wears a blue star-covered hooded robe and carries a golden star wand. The 1-in-6 chase is Jingles the Elf, and the hyper chase is a 1-of-1 gold Tala.",
+   "event": null,
+   "retailer": "PopLife"
   }
  ]
 }
