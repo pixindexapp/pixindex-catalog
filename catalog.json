@@ -1,7 +1,7 @@
 {
- "version": 13,
- "publishedAt": "2026-11-26T01:04:10Z",
- "entryCount": 401,
+ "version": 14,
+ "publishedAt": "2026-11-26T01:15:42Z",
+ "entryCount": 403,
  "entries": [
   {
    "id": "pix-scout-birthday",
@@ -13575,6 +13575,57 @@
    "roster": null,
    "blurb": "Thrilljoy Asia x Pop Life exclusive from the Heartlings line, released in the Philippines. Tala wears a blue star-covered hooded robe and carries a golden star wand. The 1-in-6 chase is Jingles the Elf, and the hyper chase is a 1-of-1 gold Tala.",
    "event": null,
+   "retailer": "PopLife"
+  },
+  {
+   "id": "pix-kuya-taho",
+   "name": "PIX! Kuya Taho",
+   "handle": "pix-kuya-taho",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": null,
+   "release": null,
+   "cats": [
+    "exclusive"
+   ],
+   "in_stock": false,
+   "chase16": true,
+   "chase_name": "Manong Taho",
+   "super": null,
+   "ultra": null,
+   "hyper": null,
+   "roster": null,
+   "blurb": "Thrilljoy Asia x Pop Life exclusive, released in the Philippines. Kuya Taho is a robot taho vendor in a salakot hat, carrying his taho cans on a shoulder pole. The 1-in-6 chase is Manong Taho, a monstrous version of the vendor.",
+   "event": null,
+   "retailer": "PopLife"
+  },
+  {
+   "id": "pix-monkey-boy",
+   "name": "PIX! Monkey Boy",
+   "handle": "pix-monkey-boy",
+   "url": null,
+   "type": "PIX!",
+   "img": null,
+   "imgs": [],
+   "run": null,
+   "release": null,
+   "cats": [
+    "exclusive"
+   ],
+   "in_stock": false,
+   "chase16": false,
+   "chase_name": null,
+   "super": null,
+   "ultra": {
+    "name": "Monkey Boy",
+    "pieces": 24
+   },
+   "hyper": null,
+   "roster": null,
+   "blurb": "Thrilljoy Asia x Pop Life exclusive by artist Harvey Tolibao, released in the Philippines as a Christmas Toys & Collectibles Fair exclusive. Monkey Boy wears goggles and a gas mask. The ultra chase is an all-black Monkey Boy.",
+   "event": "Christmas Toys & Collectibles Fair",
    "retailer": "PopLife"
   }
  ]
